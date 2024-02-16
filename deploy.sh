@@ -1,2 +1,2 @@
 Hi This is newly created script file
-Hi
+Hi this is newly added script
