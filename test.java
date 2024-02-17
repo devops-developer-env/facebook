@@ -1,3 +1,3 @@
 Hi This is Test code for Java
-Hi This is newly added code for java project
+Hi This is newly added code
 
