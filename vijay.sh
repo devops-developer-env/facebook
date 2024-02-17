@@ -1,3 +1,3 @@
 Hi This is new script file
 
-Hi this code updated from development branch
+Hi this code updated from master branch
